@@ -16,34 +16,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_enable_dnd_title">Attiva la modalità Non Disturbare durante le chiamate</string>
-    <string name="incall_vibrate_outgoing_title">Vibrazione alla risposta</string>
-    <string name="incall_vibrate_call_waiting_title">Vibrazione per chiamata in attesa</string>
-    <string name="incall_vibrate_hangup_title">Vibrazione al termine della chiamata</string>
-    <string name="incall_vibrate_45_title">Vibrazione ogni minuto</string>
-    <string name="incall_vibrate_45_summary">Vibra al 45esimo secondo di ogni minuto durante le chiamate in uscita</string>
-    <string name="incall_dnd_dialog_message">Per attivare la modalità Non Disturbare, l\'app Telefono deve essere autorizzata a controllarne lo stato Non Disturbare.\nConsenti l\'accesso per abilitare questa funzione.</string>
-    <string name="allow">Consenti</string>
-    <string name="deny">Nega</string>
     <!-- Call Recording -->
-    <string name="call_recording_category_title">Registrazione chiamata</string>
-    <string name="call_recording_format">Formato audio</string>
     <!-- Call Statistics-->
-    <string name="call_log_stats_title">Statistiche</string>
-    <string name="call_via">Chiama con</string>
-    <string name="call_via_dialog_title">Chiama con\u2026</string>
-    <string name="other_settings_label">Altre impostazioni</string>
     <!-- Dialer postcall -->
-    <string name="enable_post_call_summary">Attiva le notifiche post chiamata nella parte inferiore dello schermo</string>
     <!-- Auto Call Recording -->
-    <string name="auto_call_recording_title">Registrazione automatica chiamate</string>
     <!-- Fullscreen Caller Photo -->
-    <string name="call_ui">UI di chiamata</string>
-    <string name="fullscreen_caller_photo_title">Foto a schermo intero</string>
-    <string name="fullscreen_caller_photo_summary">Visualizza la foto a schermo intero nelle chiamate in arrivo e in uscita</string>
-    <string name="fullscreen_caller_photo_message">Per usarlo, è necessario riavviare l\'applicazione</string>
     <!-- Smart Options -->
-    <string name="smart_category_title">Gesti</string>
-    <string name="smart_mute_title">Muto intelligente</string>
-    <string name="smart_mute_summary">Silenzia la chiamata in arrivo capovolgendo il dispositivo</string>
 </resources>

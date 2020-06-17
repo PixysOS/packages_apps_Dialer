@@ -16,10 +16,36 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">Em chamada</string>
+    <string name="incall_enable_dnd_title">Ativar o modo não perturbe durante as chamadas</string>
+    <string name="incall_vibrate_outgoing_title">Vibrar ao atender</string>
+    <string name="incall_vibrate_call_waiting_title">Vibrar ao receber chamada em espera</string>
+    <string name="incall_vibrate_hangup_title">Vibrar ao encerrar a chamada</string>
+    <string name="incall_vibrate_45_title">Vibrar a cada minuto</string>
+    <string name="incall_vibrate_45_summary">Vibrar aos 45 segundos de cada minuto durante chamadas realizadas</string>
+    <string name="incall_dnd_dialog_message">Para ativar o recurso Não perturbe, o aplicativo telefone precisa receber permissão para controlar o status Não perturbe. \n Por favor, permita.</string>
+    <string name="allow">Permitir</string>
+    <string name="deny">Negar</string>
     <!-- Call Recording -->
+    <string name="call_recording_category_title">Gravador de chamadas</string>
+    <string name="call_recording_format">Formato de áudio</string>
     <!-- Call Statistics-->
+    <string name="call_log_stats_title">Estatísticas</string>
+    <string name="call_via">Ligar via</string>
+    <string name="call_via_dialog_title">Ligar via\u2026</string>
+    <string name="other_settings_label">Outras configurações</string>
     <!-- Dialer postcall -->
+    <string name="enable_post_call_title">Snack pós-chamada</string>
+    <string name="enable_post_call_summary">Ativar notificações pós-chamada na parte inferior da tela</string>
     <!-- Auto Call Recording -->
+    <string name="auto_call_recording_title">Gravação automática de chamadas</string>
     <!-- Fullscreen Caller Photo -->
+    <string name="call_ui">Ligar para UI</string>
+    <string name="fullscreen_caller_photo_title">Foto em tela cheia</string>
+    <string name="fullscreen_caller_photo_summary">Mostrar modo de tela cheia nas chamadas recebidas e efetuadas</string>
+    <string name="fullscreen_caller_photo_message">Para aplicar, você deve reiniciar o aplicativo</string>
     <!-- Smart Options -->
+    <string name="smart_category_title">Gestos</string>
+    <string name="smart_mute_title">Modo silencioso inteligente</string>
+    <string name="smart_mute_summary">Silenciar chamada recebida virando o dispositivo para baixo</string>
 </resources>

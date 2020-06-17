@@ -16,36 +16,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_category_title">Zajęty</string>
-    <string name="incall_enable_dnd_title">Włącz tryb Nie przeszkadzać podczas rozmów</string>
-    <string name="incall_vibrate_outgoing_title">Wibracja przy odebraniu połączenia</string>
-    <string name="incall_vibrate_call_waiting_title">Wibracja przy zawieszeniu połączenia</string>
-    <string name="incall_vibrate_hangup_title">Wibracja przy zakończeniu połączenia</string>
-    <string name="incall_vibrate_45_title">Wibracja co minutę</string>
-    <string name="incall_vibrate_45_summary">Wibracja co 45 sekund każdej minuty podczas połączeń wychodzących</string>
-    <string name="incall_dnd_dialog_message">Aby włączyć tryb Nie przeszkadzać, aplikacja Telefon musi posiadać uprawnienia do kontrolowania stanu trybu Nie przeszkadzać.\nZezwól na to.</string>
-    <string name="allow">Zezwól</string>
-    <string name="deny">Odmów</string>
     <!-- Call Recording -->
-    <string name="call_recording_category_title">Nagrywanie połączeń</string>
-    <string name="call_recording_format">Format dźwięku</string>
     <!-- Call Statistics-->
-    <string name="call_log_stats_title">Statystyki</string>
-    <string name="call_via">Zadzwoń przez</string>
-    <string name="call_via_dialog_title">Zadzwoń przez\u2026</string>
-    <string name="other_settings_label">Inne ustawienia</string>
     <!-- Dialer postcall -->
-    <string name="enable_post_call_title">Ekran po zakończeniu połączenia</string>
-    <string name="enable_post_call_summary">Włącz powiadomienia po zakończeniu połączenia na dole ekranu</string>
     <!-- Auto Call Recording -->
-    <string name="auto_call_recording_title">Automatyczne nagrywanie połączeń</string>
     <!-- Fullscreen Caller Photo -->
-    <string name="call_ui">Interfejs połączenia</string>
-    <string name="fullscreen_caller_photo_title">Zdjęcie na pełnym ekranie</string>
-    <string name="fullscreen_caller_photo_summary">Wyświetl zdjęcie na pełnym ekranie dla połączeń przychodzących oraz wychodzących</string>
-    <string name="fullscreen_caller_photo_message">Aby tego użyć, musisz uruchomić aplikację ponownie</string>
     <!-- Smart Options -->
-    <string name="smart_category_title">Gesty</string>
-    <string name="smart_mute_title">Inteligentne wyciszenie</string>
-    <string name="smart_mute_summary">Wycisz połączenia przychodzące poprzez odwrócenie urządzenia</string>
 </resources>
