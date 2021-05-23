@@ -17,9 +17,20 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Dialer postcall -->
+    <string name="allow">Zezwól</string>
+    <string name="deny">Odmów</string>
     <!-- Call Recording -->
+    <string name="call_recording_category_title">Nagrywanie połączeń</string>
+    <string name="call_recording_format">Format dźwięku</string>
     <!-- Call Statistics-->
+    <string name="call_log_stats_title">Statystyki</string>
     <!-- Auto Call Recording -->
+    <string name="auto_call_recording_title">Automatyczne nagrywanie połączeń</string>
     <!-- Fullscreen Caller Photo -->
+    <string name="call_ui">Interfejs połączenia</string>
+    <string name="fullscreen_caller_photo_title">Zdjęcie na pełnym ekranie</string>
+    <string name="fullscreen_caller_photo_summary">Wyświetl zdjęcie na pełnym ekranie dla połączeń przychodzących oraz wychodzących</string>
     <!-- Smart Options -->
+    <string name="smart_category_title">Gesty</string>
+    <string name="smart_mute_title">Inteligentne wyciszenie</string>
 </resources>

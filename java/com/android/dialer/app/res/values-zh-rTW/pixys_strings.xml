@@ -16,10 +16,36 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="other_settings_label">其它設定</string>
     <!-- Dialer postcall -->
+    <string name="enable_post_call_title">通話結束後通知</string>
+    <string name="enable_post_call_summary">在螢幕底部啟用傳呼通知</string>
+    <string name="incall_category_title">來電</string>
+    <string name="incall_enable_dnd_title">在通話過程中開啟勿擾功能</string>
+    <string name="incall_vibrate_outgoing_title">接通時震動</string>
+    <string name="incall_vibrate_call_waiting_title">來電等待時震動</string>
+    <string name="incall_vibrate_hangup_title">掛斷時震動</string>
+    <string name="incall_vibrate_45_title">每分鐘震動一次</string>
+    <string name="incall_vibrate_45_summary">撥出電話後每分鐘的 45 秒時振動</string>
+    <string name="incall_dnd_dialog_message">為了啟用勿擾功能，電話應用程式需要授權權限。\n請授權。</string>
+    <string name="allow">允許</string>
+    <string name="deny">拒絕</string>
     <!-- Call Recording -->
+    <string name="call_recording_category_title">通話錄音</string>
+    <string name="call_recording_format">音訊格式</string>
     <!-- Call Statistics-->
+    <string name="call_log_stats_title">統計資料</string>
+    <string name="call_via">來電透過</string>
+    <string name="call_via_dialog_title">來電透過\u2026</string>
     <!-- Auto Call Recording -->
+    <string name="auto_call_recording_title">自動通話錄音</string>
     <!-- Fullscreen Caller Photo -->
+    <string name="call_ui">通話介面</string>
+    <string name="fullscreen_caller_photo_title">全屏照片</string>
+    <string name="fullscreen_caller_photo_summary">撥出或接聽時顯示全屏照片</string>
+    <string name="fullscreen_caller_photo_message">若要使用，您必須重新啟動這應用程式</string>
     <!-- Smart Options -->
+    <string name="smart_category_title">手勢</string>
+    <string name="smart_mute_title">智慧靜音</string>
+    <string name="smart_mute_summary">翻轉裝置讓來電靜音</string>
 </resources>
